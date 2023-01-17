@@ -2,3 +2,5 @@ kék
 piros
 zöld
 lila
+fekete
+narancs
